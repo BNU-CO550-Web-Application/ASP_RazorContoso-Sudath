@@ -5,7 +5,7 @@ using Microsoft.EntityFrameworkCore.Migrations;
 
 namespace ASP_RazorContoso.Migrations
 {
-    public partial class InitialCreate : Migration
+    public partial class InitialCreatea : Migration
     {
         protected override void Up(MigrationBuilder migrationBuilder)
         {
