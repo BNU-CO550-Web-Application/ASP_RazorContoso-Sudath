@@ -12,7 +12,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace ASP_RazorContoso.Migrations
 {
     [DbContext(typeof(SchoolContext))]
-    [Migration("20221122102247_InitialCreate")]
+    [Migration("20221128131550_InitialCreate")]
     partial class InitialCreate
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
